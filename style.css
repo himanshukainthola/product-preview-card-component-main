@@ -113,6 +113,7 @@ body{
   background-image: url(images/image-product-mobile.jpg);
   background-repeat: no-repeat;
   height: 14.7rem;
+  width: 100%;
   background-size: cover;
 }
 
@@ -191,7 +192,8 @@ body{
     background-image: url(images/image-product-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: auto;
+    height: 449px;
+    width: 100%;
   }
 
   .product--content{
