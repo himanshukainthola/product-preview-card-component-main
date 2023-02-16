@@ -97,7 +97,7 @@ body{
   max-width: 100%;
   display: grid;
   place-content: center;
-  margin: 1rem;
+  padding: 1rem;
 }
 
 
